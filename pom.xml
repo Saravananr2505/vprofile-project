@@ -120,12 +120,12 @@
 		</dependency>
     </dependencies>
 	
-<distributionManagement>
-   <snapshotRepository>
-      <id>nexus-snapshots</id>
-      <url>http://13.94.198.128:8081/repository/Vprofile/</url>
-   </snapshotRepository>
-</distributionManagement>    
+    <distributionManagement>
+       <snapshotRepository>
+          <id>nexus-snapshots</id>
+          <url>http://13.94.198.128:8081/repository/Vprofile/</url>
+       </snapshotRepository>
+    </distributionManagement>    
     <build>
         <plugins>
             <plugin>
