@@ -125,6 +125,10 @@
           <id>nexus-snapshots</id>
           <url>http://13.94.198.128:8081/repository/Vprofile/</url>
        </snapshotRepository>
+       <repository>
+          <id>nexus-releases</id>
+          <url>http://13.94.198.128:8081/repository/Vprofile/</url>
+       </repository>    
     </distributionManagement>    
     <build>
         <plugins>
