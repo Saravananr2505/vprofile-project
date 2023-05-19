@@ -5,4 +5,4 @@ metadata:
 spec:
   containers:
   - name: nginx
-    image: nginx:1.14.2
+    image: 13.94.198.128:9001/vprofile:latest 
