@@ -5,4 +5,4 @@ metadata:
 spec:
   containers:
   - name: nginx
-    image: 13.94.198.128:9001/vprofile:latest 
+    image: vprofile01.azurecr.io/vprofile:latest 
