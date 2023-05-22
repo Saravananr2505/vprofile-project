@@ -6,3 +6,5 @@ spec:
   containers:
   - name: nginx
     image: vprofile01.azurecr.io/vprofile:latest 
+  imagePullSecrets:
+  - name: vprofile01
